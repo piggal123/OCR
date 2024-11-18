@@ -2,4 +2,11 @@
 
 # Description
 
-# Technologies #
+
+# Libraries
+
+**pdf2image 
+pillow 
+pytesserac**
+
+
